@@ -57,5 +57,6 @@ def main():
             print("The computer attempts: " + str(computer_attempts))
             break
 
-main()
+if __name__=="__main__":
+    main()
 #End-of-file (EOF)
